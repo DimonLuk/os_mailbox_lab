@@ -3,4 +3,4 @@
 
 #include "mailbox.h"
 
-#endif
+#endif // _LIBMAILBOX_PRIVATE_H_
