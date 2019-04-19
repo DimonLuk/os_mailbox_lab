@@ -1,0 +1,4 @@
+#ifndef _LIBMAILBOX_H_
+#define _LIBMAILBOX_H_
+#cmakedefine MAILBOX_MAX_PAGE_SIZE @MAILBOX_MAX_PAGE_SIZE@
+#endif

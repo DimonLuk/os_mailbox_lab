@@ -1,0 +1,4 @@
+#ifndef _LIBMAILBOX_CONFIG_H_
+#define _LIBMAILBOX_CONFIG_H_
+#define MAILBOX_BODY_SIZE 8
+#endif
